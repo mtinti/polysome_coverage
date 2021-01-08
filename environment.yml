@@ -1,0 +1,27 @@
+name: visCov
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - imagemagick
+  - bedtools
+  - seaborn
+  - pandas
+  - jupyter
+  - spyder
+  - pybedtools
+  - jupyter_contrib_nbextensions
+  - pygenometracks
+  - tqdm
+  - goatools
+  - htslib
+  - multiqc
+  - sra-tools
+  - bedops
+  - ucsc-bedgraphtobigwig
+  - pip
+  - pip:
+    - svist4get
+
