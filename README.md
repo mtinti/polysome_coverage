@@ -8,7 +8,7 @@
 
 The Jupyter notebook
 - Figures_Paper_Coverage
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtinti/polysome/master?filepath=Figures_Paper_def.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtinti/polysome_coverage/HEAD?filepath=Figures_Paper_Coverage.ipynb)
 
 produces the rna-seq coverage figures for the paper
 
