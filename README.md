@@ -6,6 +6,8 @@
     Wellcome Centre for Anti-Infectives Research
     School of Life Sciences, University of Dundee
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4428343.svg)](https://doi.org/10.5281/zenodo.4428343)
+
 The Jupyter notebook
 - Figures_Paper_Coverage
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtinti/polysome_coverage/HEAD?filepath=Figures_Paper_Coverage.ipynb)
